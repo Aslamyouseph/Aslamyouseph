@@ -15,4 +15,4 @@ Hello, I'm Aslam Youseph! 👋
 
 🔹 Tech Stack:
 
-   Native | Node.js | React.js | PHP | C | C++ | Python | Java | HTML | CSS | JavaScript | Data Structures | Git & GitHub
+   React Native | Node.js | React.js | PHP | C | C++ | Python | Java | HTML | CSS | JavaScript | Data Structures | Git & GitHub
